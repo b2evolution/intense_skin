@@ -1,5 +1,7 @@
 ## Intense skin for b2evolution CMS.
 
+<img src="skinshot.png"/>
+
 #### v5.1.
 
 - Sitewide_header included for easier multi-blogging experience
