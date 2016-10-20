@@ -20,7 +20,7 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
 class intense_Skin extends Skin
 {
 	
-	var $version = '5.1';
+	var $version = '5.1.1';
 	/**
 	 * Get default name for the skin.
 	 * Note: the admin can customize it.

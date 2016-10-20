@@ -2,6 +2,10 @@
 
 <img src="skinshot.png"/>
 
+#### v5.1.1
+
+- New skinshot
+
 #### v5.1.
 
 - Sitewide_header included for easier multi-blogging experience
